@@ -1,0 +1,1 @@
+Tip: your agent just fixed the bug, added two new ones, and is now quietly Googling its own error message.
